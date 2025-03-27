@@ -1,10 +1,10 @@
-# 🚀 C++ Module 00
+# C++ Module 00
 
 This repository contains the first module of the **42 C++ Piscine**, focused on learning the fundamentals of C++ programming and object-oriented design.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 The goal of this module is to:
 - Understand the differences between C and C++
@@ -13,7 +13,7 @@ The goal of this module is to:
 
 ---
 
-## 🧠 Concepts Covered
+## Concepts Covered
 
 - `std::cout`, `std::cin`, `std::endl`
 - Namespaces (`std`)
@@ -23,14 +23,3 @@ The goal of this module is to:
 - Stack vs Heap allocation
 - Constructors and destructors
 - Static members
-
----
-
-## 📦 Exercises Overview
-
-### 🧪 `ex00` — Megaphone
-> A program that takes input and outputs it in uppercase.
-
-```bash
-./megaphone "shhhhh... I think the students are asleep..."
-SHHHHH... I THINK THE STUDENTS ARE ASLEEP...
